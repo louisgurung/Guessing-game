@@ -1,0 +1,59 @@
+html {
+        font-family: sans-serif;
+      }
+      body {
+        width: 50%;
+        max-width: 800px;
+        min-width: 480px;
+        margin: 0 auto;
+      }
+      .lastResult {
+        color: white;
+        padding: 3px;
+      }
+	  
+	h1{
+		font-family:  'Hoefler Text', Georgia, 'Times New Roman', serif;
+		font-weight: normal;
+		font-size: 3em;
+		letter-spacing: .2em;
+		line-height: 1.1em;
+		color:rgb(122, 193, 221);
+		margin:0px;
+		text-align: center;
+		text-transform: uppercase;
+		padding-top:10px;
+ }
+ 
+ p{
+ 	font-family:  'Hoefler Text', Georgia, 'Times New Roman', serif;
+ }
+ 
+ div{
+ font-family:  'Hoefler Text', Georgia, 'Times New Roman', serif;
+		font-weight: normal;
+		font-size: 1.75em;
+		letter-spacing: .2em;
+		line-height: 1.1em;
+		color:rgb(150, 203, 224);
+		margin:0px;
+		text-align: center;
+		text-transform: uppercase;
+		padding-top:10px;
+ 
+ }
+	  
+	  
+	 input[type=submit]{
+		background-color:rgb(122, 193, 221);
+		height:48 px;
+		border-radius:10px;
+		font-weight:bold;
+		color:white;
+	 }
+	 
+	 input[type=text]{
+		height:25px;
+	 }
+	 
+	  }
